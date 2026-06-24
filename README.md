@@ -1,7 +1,7 @@
 # ESP32 WiFi Temperature Monitor
 
 ## Overview
-### This project showcase a temperature and humidity monitoring system which was built using ESP32 using a DTH11 sensor and a 16x2 I2C LCD screen. The results obtained by the sensor are are displaye don both the LCD screen and a local webpage hosted by the ESP32 through WiFi. 
+### This project showcase a temperature and humidity monitoring system which was built using ESP32 using a DTH11 sensor and a 16x2 I2C LCD screen. The results obtained by the sensor are are displayed on both the LCD screen and a local webpage hosted by the ESP32 through WiFi. 
 ### The goal of this project is to learn about sensor interfacing, I2C communication and embedded webserver as well as knowledge about the ESP32 specifically and microcontroller in general.
 
 ## Features
